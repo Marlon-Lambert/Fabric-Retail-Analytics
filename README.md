@@ -16,7 +16,7 @@ This project demonstrates an end-to-end data engineering and analytics workflow 
 ## 📊 Dashboard
 View the live Power BI dashboard here → [**View Dashboard**](https://app.powerbi.com/view?r=EXAMPLE)
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](screenshots/executive_kpi.png)
 
 ## 🚀 Key Highlights
 - Automated Fabric pipeline for daily refresh.  
