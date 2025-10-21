@@ -16,6 +16,8 @@ This project demonstrates an end-to-end data engineering and analytics workflow 
 ## 📊 Dashboard
 View the live Power BI dashboard here → [**View Dashboard**](https://app.fabric.microsoft.com/reportEmbed?reportId=3161d10f-5c99-4518-a5d3-8bb2a7ceb35d&autoAuth=true&ctid=8547dc42-5be6-4cd3-a863-a6be51afc13b)
 
+[![Dashboard Preview](screenshots/Executive_KPI.png)](screenshots/Executive_KPI.png)
+
 
 ## 🚀 Key Highlights
 - Automated Fabric pipeline for daily refresh.  
@@ -36,4 +38,4 @@ View the live Power BI dashboard here → [**View Dashboard**](https://app.fabri
 ### 📫 Contact
 **Marlon Lambert** – Sydney, NSW  
 📧 marlonlambert@gmail.com  
-🔗 [LinkedIn](https://linkedin.com) (optional)
+
