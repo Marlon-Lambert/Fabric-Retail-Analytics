@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Azure Fabric Retail Analytics Portfolio – Marlon Lambert</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; line-height: 1.6; }
+    h1, h2 { color: #0066cc; }
+    iframe { border: 1px solid #ccc; border-radius: 8px; }
+    .screenshot { max-width: 800px; display: block; margin: 1rem 0; }
+  </style>
+</head>
+<body>
+  <h1>Azure Fabric Retail Analytics Project</h1>
+
+  <p>
+    This demo illustrates a complete Microsoft Fabric data pipeline using a Medallion architecture (Bronze → Silver → Gold) with a Power BI semantic model.
+  </p>
+
+  <h2>Live Power BI Report</h2>
+  <p>
+    <iframe
+      width="800"
+      height="600"
+      src="https://app.fabric.microsoft.com/reportEmbed?reportId=3161d10f-5c99-4518-a5d3-8bb2a7ceb35d&autoAuth=true&ctid=8547dc42-5be6-4cd3-a863-a6be51afc13b"
+      frameborder="0"
+      allowFullScreen="true">
+    </iframe>
+  </p>
+
+  <h2>Project Overview</h2>
+  <ul>
+    <li>Data ingestion via Dataflow Gen2 (SharePoint → Lakehouse)</li>
+    <li>PySpark notebooks for ETL (Transform → Gold)</li>
+    <li>Analytics in Power BI</li>
+  </ul>
+
+
+  <footer>
+    <p>© 2025 Marlon Lambert | <a href="https://github.com/marlonlambert/fabric-retail-analytics">View on GitHub</a></p>
+  </footer>
+</body>
+</html>
