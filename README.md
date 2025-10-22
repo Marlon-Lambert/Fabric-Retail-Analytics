@@ -14,7 +14,7 @@ This project demonstrates an end-to-end data engineering and analytics workflow 
 - **Visualization:** Power BI dashboard with DirectLake connection for real-time analytics.
 
 ## 📊 Dashboard
-View the live Power BI dashboard here → [**View Dashboard**](https://app.fabric.microsoft.com/reportEmbed?reportId=3161d10f-5c99-4518-a5d3-8bb2a7ceb35d&autoAuth=true&ctid=8547dc42-5be6-4cd3-a863-a6be51afc13b)
+View the live Power BI dashboard here → [**View Dashboard**](docs/index.html)
 
 [![Dashboard Preview](screenshots/Executive_KPI.png)](screenshots/Executive_KPI.png)
 
