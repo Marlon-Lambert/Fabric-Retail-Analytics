@@ -14,7 +14,7 @@ This project demonstrates an end-to-end data engineering and analytics workflow 
 - **Visualization:** Power BI dashboard with DirectLake connection for real-time analytics.
 
 ## 📊 Dashboard
-View the live Power BI dashboard here → [**View Dashboard**](docs/index.html)
+View the live Power BI dashboard here → [**View Dashboard**]( https://marlon-lambert.github.io/Fabric-Retail-Analytics/)
 
 [![Dashboard Preview](screenshots/Executive_KPI.png)](screenshots/Executive_KPI.png)
 
